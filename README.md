@@ -11,6 +11,10 @@ This is a challenged propoused by DIO as a way to check and put into practice wh
   - Used AI to analyze the spreadsheet data to return isights such as: "What are the areas that I spent the most in this month?", or: "What is an area that I can save more money on?"
 
 
-# Inputs and outputs:
-Inputs
-Outputs
+# ⬆️Data Provided:
+  - Spreadsheet file
+  - Prompt: "Analize the following spreadsheet and return insights about my finances. Also, prepare a plan on how to save more"
+
+
+# ⬇️What got returned
+  -[Chatbot output]()
