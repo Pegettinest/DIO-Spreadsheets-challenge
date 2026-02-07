@@ -17,4 +17,4 @@ This is a challenged propoused by DIO as a way to check and put into practice wh
 
 
 # ⬇️What got returned
-  -[Chatbot output]()
+  -[Chatbot output](https://github.com/Pegettinest/DIO-Spreadsheets-challenge/blob/main/Outputs/Chatbot%20Output.md)
